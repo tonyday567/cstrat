@@ -1,0 +1,14 @@
+resolver: lts-14.13
+
+packages:
+  - .
+  - ../readme-lhs
+  - ../chart-svg
+  - ../web-rep
+  - ../box
+  - ../numhask-space
+
+extra-deps:
+  #- readme-lhs-0.4.0
+  - javascript-bridge-0.2.0
+  - lucid-svg-0.7.1
