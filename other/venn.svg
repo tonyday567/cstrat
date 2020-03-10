@@ -1,0 +1,10 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" height="400.0" viewBox="-2.0 -2.0 4.0 4.0" width="600.0" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.11.1">
+  <path stroke-opacity="1.0" fill-opacity="0.7" d="M0.0,-1.2320508075688774 A0.5 0.5 0.0 1 1 1.0,0.5 1.0 1.0 0.0 0 0 0.5,-0.3660254037844387 1.0 1.0 0.0 0 0 0.0,-1.2320508075688774 Z" stroke="#FFFFFF" stroke-width="0.04" fill="#032f74"/>
+  <path stroke-opacity="1.0" fill-opacity="0.7" d="M-1.0,0.5 A0.5 0.5 0.0 1 0 1.0,0.5 1.0 1.0 0.0 0 1 0.0,0.5 1.0 1.0 0.0 0 1 -1.0,0.5 Z" stroke="#FFFFFF" stroke-width="0.04" fill="#003601"/>
+  <path stroke-opacity="1.0" fill-opacity="0.7" d="M-1.0,0.5 A0.5 0.5 0.0 1 1 0.0,-1.2320508075688774 1.0 1.0 0.0 0 0 -0.5,-0.3660254037844387 1.0 1.0 0.0 0 0 -1.0,0.5 Z" stroke="#FFFFFF" stroke-width="0.04" fill="#065906"/>
+  <path stroke-opacity="1.0" fill-opacity="0.7" d="M0.0,-1.2320508075688774 A1.0 1.0 0.0 0 1 0.5,-0.3660254037844387 1.0 1.0 0.0 0 0 -0.5,-0.3660254037844387 1.0 1.0 0.0 0 1 0.0,-1.2320508075688774 Z" stroke="#FFFFFF" stroke-width="0.04" fill="#ac0505"/>
+  <path stroke-opacity="1.0" fill-opacity="0.7" d="M0.5,-0.3660254037844387 A1.0 1.0 0.0 0 1 1.0,0.5 1.0 1.0 0.0 0 1 0.0,0.5 1.0 1.0 0.0 0 0 0.5,-0.3660254037844387 Z" stroke="#FFFFFF" stroke-width="0.04" fill="#4b2282"/>
+  <path stroke-opacity="1.0" fill-opacity="0.7" d="M0.0,0.5 A1.0 1.0 0.0 0 1 -1.0,0.5 1.0 1.0 0.0 0 1 -0.5,-0.3660254037844387 1.0 1.0 0.0 0 0 0.0,0.5 Z" stroke="#FFFFFF" stroke-width="0.04" fill="#431712"/>
+  <path stroke-opacity="1.0" fill-opacity="0.7" d="M0.5,-0.3660254037844387 A1.0 1.0 0.0 0 1 0.0,0.5 1.0 1.0 0.0 0 1 -0.5,-0.3660254037844387 1.0 1.0 0.0 0 1 0.5,-0.3660254037844387 Z" stroke="#FFFFFF" stroke-width="0.04" fill="#c42f8a"/>
+</svg>

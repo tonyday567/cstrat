@@ -17,8 +17,8 @@ source-repository head
   type: git
   location: https://github.com/tonyday567/cstrat
 
-executable cstrat
-  main-is: example.lhs
+executable venn
+  main-is: venn.hs
   hs-source-dirs: app
   default-extensions:
     NegativeLiterals
@@ -32,37 +32,13 @@ executable cstrat
     -with-rtsopts=-N
   build-depends:
       base >= 4.7 && < 5
-    , doctest ^>= 0.16.0.1
     , protolude ^>= 0.2.3
-    , readme-lhs ^>= 0.2.0
-    , svg-tree
     , chart-svg
-    , linear
+    , generic-lens
+    , lucid-svg
     , numhask-space
     , lens
-    , JuicyPixels
     , containers
+    , text
     
-  default-language: Haskell2010
-
-test-suite test
-  type: exitcode-stdio-1.0
-  main-is: test.hs
-  hs-source-dirs: test
-  default-extensions:
-    NegativeLiterals
-    NoImplicitPrelude
-    OverloadedStrings
-    UnicodeSyntax
-  ghc-options:
-      -funbox-strict-fields
-      -fforce-recomp
-      -threaded
-      -rtsopts
-      -with-rtsopts=-N
-  build-depends:
-      base >= 4.7 && < 5
-    , doctest ^>= 0.16.0.1
-    , protolude ^>= 0.2.3
-    , readme-lhs ^>= 0.2.0
   default-language: Haskell2010
